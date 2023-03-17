@@ -8,46 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am excited to kick off another chapter of my life to work on AI-based Cardiac Image Computing as a PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/) and with industrial partners including [Nvidia ](https://www.nvidia.com/en-gb/), [Circle Cardiovascular Imaging](https://www.circlecvi.com/), and [Conavi Medical](http://conavi.com/).
+My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/), working in [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Changjae Oh](http://eecs.qmul.ac.uk/~coh/).
 
-My PhD is supervised by [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr Martin Benning
-](https://www.qmul.ac.uk/maths/profiles/benningmartin.html), and I am also a part of [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/). 
 
 ## Previous Research and Experience 
- * I worked as a Research Assistant at the [University of Cambridge](https://www.cam.ac.uk/), [McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/institutes-and-facilities-overview/mcdonald-institute-archaeological-research) on facial expressions recognition in visual arts with [Dr Liliana Janik](https://www.arch.cam.ac.uk/directory/lj102), and [Professor Hatice Gunes](https://www.cl.cam.ac.uk/~hg410/). I was also a part of [Affective Intelligence and Robotics Laboratory (AFAR) Group](https://cambridge-afar.github.io/)
 
-* I completed my Master's Degree in Electronics and Information Engineering from [Jeonbuk National University (JBNU), Jeonju, Republic of Korea,](https://www.jbnu.ac.kr/kor/) (2019-2021) with research focused on fundamental Deep Learning and applications of Computer Vision to Healthcare and Precision Agriculture. I was supervised by [Professor Hyongsuk Kim](https://scholar.google.com/citations?user=ywYodqAAAAAJ&hl=en) and [Professor Yongchae Jeong
-](https://scholar.google.co.kr/citations?user=VhkRkVUAAAAJ&hl=en), as well as working as a Research Assistant at [Core Research Institute of Intelligent Robots](https://robot.jbnu.ac.kr/robot/index.do).
+* I completed my Master's Degree in Information and Telecommunications Engineering from [Xidian University, Xi'an, China,](https://en.xidian.edu.cn/) (2018-2021) with research focused on spectrum sensing and covert communications. I was supervised by [Professor Zan Li](https://web.xidian.edu.cn/zanli/en/index.html).
 
-* I obtained my Bachelor Degree in Electrical and Electronics Engineering with <b> Magna Cum Laude </b> from [Bahria University Islamabad, (BUIC) Pakistan](https://www.bahria.edu.pk/) (2014-2018). I worked on Retinal layers segmentation in my final year and was supervised by [Dr. Taimur Hassan
-](https://scholar.google.com.pk/citations?user=11mwy0YAAAAJ&hl=en).
+* I obtained my Bachelor's Degree in Electronic Science and Technology from [Jilin University, Changchun, China,](http://global.jlu.edu.cn/) (2013-2017).
 
 ## Research Interests
-* My primary research interest is to solve vision-based problems like Segmentation, Detection, Depth Estimation, and Classification. 
-* I also investigate topics related to Deep learning in Mobile Devices, Bioinformatics, Optical Flow and Signal Processing.
-
-
-## Honors and Awards
-
-During this period, I won the following Awards, Scholarships and Internships.
-
-[Silver Medal, Bahria University Islamabad, Pakistan.](/files/cert.PNG)
-
-[Brain Korea (BK21) Scholarship](https://bk21four.nrf.re.kr/)
-
-[Bahria University Advanced Merit Scholarship](https://www.bahria.edu.pk/buic/ees/scholarships/)
-
-[CERN, Switzerland "Conseil Européen pour la Recherche Nucléaire" Summer Program (2018](https://home.cern/summer-student-programme)
-
-[Türkiye Belediyeler Birliği – Çankaya/Ankara, Turkey, LocalInternational Internship Program](https://www.cankaya.bel.tr/pages/129/Turkiye-Belediyeler-Birligi--Union-of-Municipalities-of-Turkey-TBB/)
-
-[National Institute of Electronics – Islamabad, Pakistan, Internet](http://www.nie.gov.pk/)
-
-
-
-
-## Funding
-National Research Foundation of Korea funds my research work (NRF), U.S. Air Force Office of Scientific Research, and the Agricultural Science and Technology Development Cooperation of Korea.
+* My primary research interest is to solve text-to-vision generation problems like text-to-video generation and Sign Language Production. 
+* I also investigate topics related to Detection, Classification and Signal Processing.
 
 
 ### Site Credits
