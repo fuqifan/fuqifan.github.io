@@ -7,7 +7,7 @@ date: 2023-03-10
 venue: 'IEEE Wireless Communications Letters ( Early Access )'
 imageurl: '/images/publications/005Vector.png'
 paperurl: '/files/Vector_Quantized_Semantic_Communication_System.pdf'
-link: 'https://doi.org/10.1109/GLOBECOM46510.2021.9685989'
+link: 'https://doi.org/10.1109/LWC.2023.3255221'
 citation: '<strong>Q. Fu</strong>, H. Xie, Z. Qin, G. Slabaugh and X. Tao, "Vector Quantized Semantic Communication System," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2023.3255221.
 '
 ---
