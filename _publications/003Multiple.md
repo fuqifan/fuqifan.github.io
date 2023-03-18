@@ -7,7 +7,7 @@ date: 2021-02-01
 venue: 'IEEE Internet of Things Journal ( Volume: 8, Issue: 11, 01 June 2021)'
 imageurl: '/images/publications/003Multiple.png'
 paperurl: '/files/Multiple_High-Order_Cumulants-Based_Spectrum_Sensing_in_Full-Duplex-Enabled_Cognitive_IoT_Networks.pdf'
-link: 'https://doi.org/10.1109/GCWkshps45667.2019.9024486'
+link: 'https://doi.org/10.1109/JIOT.2021.3055782'
 citation: 'D. Wang, P. Qi, <strong>Q. Fu</strong>, N. Zhang and Z. Li, "Multiple High-Order Cumulants-Based Spectrum Sensing in Full-Duplex-Enabled Cognitive IoT Networks," in IEEE Internet of Things Journal, vol. 8, no. 11, pp. 9330-9343, 1 June1, 2021, doi: 10.1109/JIOT.2021.3055782.
 '
 ---
