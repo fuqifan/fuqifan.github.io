@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/), working in [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/profiles/slabaughgreg.html) and [Dr. Changjae Oh](http://eecs.qmul.ac.uk/~coh/).
+My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/), working in [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/~gslabaugh/) and [Dr. Changjae Oh](http://eecs.qmul.ac.uk/~coh/).
 
 
 ## Previous Research and Experience 
