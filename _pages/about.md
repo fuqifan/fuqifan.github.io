@@ -19,7 +19,7 @@ My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary Univer
 
 ## Research Interests
 * My primary research interest is to solve text-to-vision generation problems like text-to-video generation, text-to-motion synthesis, and sign language production. 
-* I also investigate topics related to Detection, Classification and Signal Processing.
+* I also investigate topics related to Detection, Classification, and Signal Processing.
 
 
 ### Site Credits
