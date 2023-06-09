@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-03-Vector
 excerpt: "Semantic Communication"
 date: 2023-03-10
-venue: 'IEEE Wireless Communications Letters ( Early Access )'
+venue: 'IEEE Wireless Communications Letters, Volume: 12, Issue: 6, On Page(s): 982-986'
 imageurl: '/images/publications/005Vector.PNG'
 paperurl: '/files/Vector_Quantized_Semantic_Communication_System.pdf'
 link: 'https://doi.org/10.1109/LWC.2023.3255221'
