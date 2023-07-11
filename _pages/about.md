@@ -25,5 +25,4 @@ My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary Univer
 ### Site Credits
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
-<a href="https://info.flagcounter.com/L47B"><img src="https://s11.flagcounter.com/count/L47B/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <a href="https://clustrmaps.com/site/1bv0k"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=6_UCcKU4Wl61UQsvkZEhN2Akn1NGm3_zIrZ-nowigtE&cl=ffffff" /></a>
