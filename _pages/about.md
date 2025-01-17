@@ -13,7 +13,7 @@ My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary Univer
 
 ## Previous Research and Experience 
 
-* I completed my Master's Degree in Information and Telecommunications Engineering from [Xidian University, Xi'an, China,](https://en.xidian.edu.cn/) (2018-2021) with research focused on spectrum sensing and covert communications. I was supervised by [Professor Zan Li](https://web.xidian.edu.cn/zanli/en/index.html).
+* I completed my Master's Degree in Information and Telecommunications Engineering from [Xidian University, Xi'an, China,](https://en.xidian.edu.cn/) (2018-2021) with research focused on spectrum sensing and covert communications. 
 
 * I obtained my Bachelor's Degree in Electronic Science and Technology from [Jilin University, Changchun, China,](http://global.jlu.edu.cn/) (2013-2017).
 
