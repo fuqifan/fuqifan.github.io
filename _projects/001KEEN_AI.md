@@ -6,7 +6,6 @@ excerpt: "Object Detection and Active Learning"
 date: 2023-01 to 2023-08
 venue: 'Keen AI, Birmingham, UK.'
 imageurl: '/images/projects/001KEENAI.PNG'
-link: 'https://keen-ai.com/blog/uncertainty-guided-active-learning-for-electrical-pylon-asset-management/'
 ---
 <center><img src = '/images/projects/001KEENAI.PNG'></center>
 ## Project Aims
