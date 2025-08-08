@@ -1,10 +1,9 @@
----
-title: "Research Internship"
+ ---
+title: "Research Internship on Line Pylons Asset Management"
 collection: projects
 permalink: /projects/2023-01-KEENAI
 excerpt: "Object Detection and Active Learning"
-start_date: 2023-01-01
-end_date: 2023-08-31
+date: 2023-08-01
 venue: 'Keen AI, Birmingham, UK.'
 imageurl: '/images/projects/001KEENAI.PNG'
 ---
