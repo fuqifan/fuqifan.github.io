@@ -3,7 +3,8 @@ title: "Research Internship"
 collection: projects
 permalink: /projects/2023-01-KEENAI
 excerpt: "Object Detection and Active Learning"
-date: 2023-01 to 2023-08
+start_date: 2023-01-01
+end_date: 2023-08-31
 venue: 'Keen AI, Birmingham, UK.'
 imageurl: '/images/projects/001KEENAI.PNG'
 ---
