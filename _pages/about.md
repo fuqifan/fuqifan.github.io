@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/), working in [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/~gslabaugh/), [Dr. Changjae Oh](http://eecs.qmul.ac.uk/~coh/), and [Dr. Shanxin Yuan](https://shanxinyuan.github.io/). I work closely with [Dr. Xu Chen](https://scholar.google.com/citations?user=P7YHbIEAAAAJ&hl=en), and [Dr. Muhammad Asad](https://masadcv.github.io/).
+My name is Qifan Fu. I am a computer science PhD candidate at [Queen Mary University of London](https://www.qmul.ac.uk/), working in [Queen Mary's Digital Environment Research Institute (DERI)](https://www.qmul.ac.uk/deri/) under the supervision of [Professor Greg Slabaugh](http://eecs.qmul.ac.uk/~gslabaugh/), [Dr. Changjae Oh](http://eecs.qmul.ac.uk/~coh/), and [Dr. Shanxin Yuan](https://shanxinyuan.github.io/). I have also worked closely with [Dr. Xu Chen](https://scholar.google.com/citations?user=P7YHbIEAAAAJ&hl=en), and [Dr. Muhammad Asad](https://masadcv.github.io/).
 
 
 ## Previous Research and Experience 
